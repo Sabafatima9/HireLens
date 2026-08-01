@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:14B8A6&height=220&section=header&text=ATS%20CV%20Checker%20%F0%9F%93%84&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Smart%20Resume%20Screening%20%7C%20Streamlit%20%7C%20Python&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:14B8A6&height=220&section=header&text=HireLens%20%20%20%F0%9F%93%84&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Smart%20Resume%20Screening%20%7C%20Streamlit%20%7C%20Python&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=500&color=2563EB&center=true&vCenter=true&width=700&lines=%F0%9F%93%84+Upload+%26+Score+Resumes+Instantly!;%F0%9F%8E%AF+JD-Match+or+General+Health+Check;%F0%9F%93%81+Bulk+Screen+Candidates+via+ZIP;%E2%9C%89%EF%B8%8F+Automated+Rejection+Emails" alt="Typing SVG" />
 
@@ -176,7 +176,7 @@ ATS_CV_Checker_Web/
 
 <div align="center">
 
-### ⭐ Star this repo if ATS CV Checker made your screening workflow easier!
+### ⭐ Star this repo if HireLens made your screening workflow easier!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:2563EB&height=120&section=footer"/>
 
